@@ -1,4 +1,4 @@
-# snmpcollector-compiled-packages for RPI4 debian buster
+# snmpcollector-compiled-packages for raspberry pi 4 debian buster
 
 source: https://github.com/toni-moreno/snmpcollector
 
